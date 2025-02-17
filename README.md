@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working on Bussiness Insights Through Data Science<br>Ready to collaborate on software engineering projects that integrates Machine Learning<br>I looking to work and gain experience from advanced engineers<br>Will soon be adding deep learning to my asset
+Currently Working on Predicting And Projecting Bussiness Insights Through Data Science And Machine<br>Ready to collaborate on software engineering projects that integrates Machine Learning<br>I am looking to work and gain experience from advanced engineers<br>Will soon be adding deep learning to my asset
 
 
 ## 🌐 Socials:
